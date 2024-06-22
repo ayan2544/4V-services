@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'myanmar_textregular';
+    src: url('mmrtext-webfont.woff2') format('woff2'),
+         url('mmrtext-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'myanmar_textbold';
+    src: url('mmrtextb-webfont.woff2') format('woff2'),
+         url('mmrtextb-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
